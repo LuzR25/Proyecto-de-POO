@@ -13,7 +13,7 @@ Datos específicos sobre el trabajo:
 - `Nombre del proyecto:` Librería Rayo
 - `Autores:` Luz Rocío García Peña, Edwin Apolonio Martín Aké, Angel David Ricalde Che
 - `Versión:` 2.0
-- `Patrón de diseño:` Modelo-Vista-Controlador.
+- `Patrón de diseño:` Modelo-Vista-Controlador
 
 ## Cómo ejecutar el código
 
